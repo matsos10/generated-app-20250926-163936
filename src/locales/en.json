@@ -1,0 +1,110 @@
+{
+  "header": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "login": "Log In",
+    "signup": "Start Free Trial",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Revolutionize Your Customer Support with <1>AI</1>",
+    "subtitle": "NexusDesk provides intelligent, automated tools to deliver faster, smarter, and more personalized support, 24/7.",
+    "cta_trial": "Start 14-Day Free Trial",
+    "cta_demo": "Request a Demo"
+  },
+  "features": {
+    "title": "The Future of Customer Service is Here",
+    "subtitle": "Everything you need to scale your support and delight your customers.",
+    "cards": {
+      "chatbot": {
+        "title": "AI Chatbots & Voicebots",
+        "description": "Provide 24/7 support, answer FAQs, and manage tickets automatically with intelligent bots."
+      },
+      "analysis": {
+        "title": "Intelligent Ticket Analysis",
+        "description": "Our AI prioritizes tickets, suggests resolutions, and routes them to the right agent."
+      },
+      "insights": {
+        "title": "Predictive Customer Insights",
+        "description": "Automatically detect at-risk customers and predict churn with sentiment analysis."
+      },
+      "reporting": {
+        "title": "Automated Reporting",
+        "description": "Generate beautiful, easy-to-understand reports on customer satisfaction and team performance."
+      }
+    }
+  },
+  "security": {
+    "title": "Bank-Level Security, Guaranteed",
+    "subtitle": "We prioritize the security of your data with end-to-end encryption, regular security audits, and compliance with global data protection standards.",
+    "points": [
+      "SOC 2 Type II and ISO 27001 certified",
+      "GDPR and CCPA compliant",
+      "Data encrypted at rest and in transit"
+    ]
+  },
+  "testimonials": {
+    "title": "Loved by Teams Worldwide",
+    "subtitle": "Don't just take our word for it. Here's what our customers are saying.",
+    "cards": [
+      {
+        "quote": "NexusDesk revolutionized our support system. Response times are down 80%, and customer satisfaction is at an all-time high.",
+        "name": "Sarah Johnson",
+        "title": "CEO, Tech Innovators"
+      },
+      {
+        "quote": "The AI-powered ticket analysis is a game-changer. Our agents can now focus on complex issues, dramatically improving our efficiency.",
+        "name": "Michael Chen",
+        "title": "Head of Support, Global Solutions"
+      },
+      {
+        "quote": "Setting up was a breeze, and the impact was immediate. I can't imagine running our support without NexusDesk now.",
+        "name": "Emily Rodriguez",
+        "title": "Founder, Creative Co."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that's right for your business.",
+    "tiers": {
+      "basic": {
+        "name": "Basic",
+        "price": "$29",
+        "features": ["1 AI Chatbot", "1000 tickets/mo", "Basic Analytics", "Email Support"],
+        "cta": "Start 14-day trial"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$79",
+        "features": ["5 AI Chatbots", "5000 tickets/mo", "Advanced Analytics", "Predictive Insights", "Priority Support"],
+        "cta": "Start 14-day trial"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "features": ["Unlimited Chatbots", "Unlimited tickets", "Custom Integrations", "Dedicated Account Manager", "24/7 Support"],
+        "cta": "Contact Sales"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What happens after my 14-day free trial ends?",
+        "answer": "After your trial, you'll be prompted to choose a paid plan to continue using the service. Your data and configurations will be saved. If you don't upgrade, your account will be paused."
+      },
+      {
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes, you can cancel your subscription at any time from your account settings. Your subscription will remain active until the end of the current billing period."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, including Visa, Mastercard, and American Express, processed securely through Stripe."
+      }
+    ]
+  }
+}

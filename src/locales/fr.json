@@ -1,0 +1,110 @@
+{
+  "header": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "testimonials": "Témoignages",
+    "faq": "FAQ",
+    "login": "Connexion",
+    "signup": "Essai Gratuit",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Révolutionnez Votre Support Client avec l'<1>IA</1>",
+    "subtitle": "NexusDesk fournit des outils intelligents et automatisés pour offrir un support plus rapide, plus intelligent et plus personnalisé, 24h/24 et 7j/7.",
+    "cta_trial": "Commencer l'essai gratuit de 14 jours",
+    "cta_demo": "Demander une démo"
+  },
+  "features": {
+    "title": "Le Futur du Service Client est Là",
+    "subtitle": "Tout ce dont vous avez besoin pour faire évoluer votre support et ravir vos clients.",
+    "cards": {
+      "chatbot": {
+        "title": "Chatbots & Voicebots IA",
+        "description": "Fournissez un support 24/7, répondez aux FAQ et gérez les tickets automatiquement avec des bots intelligents."
+      },
+      "analysis": {
+        "title": "Analyse Intelligente des Tickets",
+        "description": "Notre IA priorise les tickets, suggère des résolutions et les achemine vers le bon agent."
+      },
+      "insights": {
+        "title": "Aperçus Clients Prédictifs",
+        "description": "Détectez automatiquement les clients à risque et prédisez le taux de désabonnement avec l'analyse des sentiments."
+      },
+      "reporting": {
+        "title": "Rapports Automatisés",
+        "description": "Générez de superbes rapports faciles à comprendre sur la satisfaction client et les performances de l'équipe."
+      }
+    }
+  },
+  "security": {
+    "title": "Sécurité de Niveau Bancaire, Garantie",
+    "subtitle": "Nous priorisons la sécurité de vos données avec un cryptage de bout en bout, des audits de sécurité réguliers et la conformité aux normes mondiales de protection des données.",
+    "points": [
+      "Certifié SOC 2 Type II et ISO 27001",
+      "Conforme au RGPD et au CCPA",
+      "Données cryptées au repos et en transit"
+    ]
+  },
+  "testimonials": {
+    "title": "Apprécié par les Équipes du Monde Entier",
+    "subtitle": "Ne nous croyez pas sur parole. Voici ce que disent nos clients.",
+    "cards": [
+      {
+        "quote": "NexusDesk a révolutionné notre syst��me de support. Les temps de réponse ont diminué de 80 % et la satisfaction client est à son plus haut niveau.",
+        "name": "Sarah Dubois",
+        "title": "PDG, Tech Innovateurs"
+      },
+      {
+        "quote": "L'analyse de tickets par l'IA change la donne. Nos agents peuvent désormais se concentrer sur des problèmes complexes, améliorant considérablement notre efficacité.",
+        "name": "Michel Chen",
+        "title": "Chef du Support, Solutions Globales"
+      },
+      {
+        "quote": "La mise en place a été un jeu d'enfant et l'impact a été immédiat. Je ne peux plus imaginer gérer notre support sans NexusDesk.",
+        "name": "��milie Rodriguez",
+        "title": "Fondatrice, Créative Co."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Tarification Simple et Transparente",
+    "subtitle": "Choisissez le plan qui convient à votre entreprise.",
+    "tiers": {
+      "basic": {
+        "name": "Basique",
+        "price": "29€",
+        "features": ["1 Chatbot IA", "1000 tickets/mois", "Analyses de base", "Support par email"],
+        "cta": "Essai de 14 jours"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "79€",
+        "features": ["5 Chatbots IA", "5000 tickets/mois", "Analyses avancées", "Aperçus prédictifs", "Support prioritaire"],
+        "cta": "Essai de 14 jours"
+      },
+      "enterprise": {
+        "name": "Entreprise",
+        "price": "Personnalisé",
+        "features": ["Chatbots illimités", "Tickets illimités", "Intégrations personnalisées", "Gestionnaire de compte dédié", "Support 24/7"],
+        "cta": "Contacter les ventes"
+      }
+    }
+  },
+  "faq": {
+    "title": "Foire Aux Questions",
+    "items": [
+      {
+        "question": "Que se passe-t-il après la fin de mon essai gratuit de 14 jours ?",
+        "answer": "Après votre essai, il vous sera demandé de choisir un plan payant pour continuer à utiliser le service. Vos données et configurations seront sauvegardées. Si vous ne mettez pas à niveau, votre compte sera mis en pause."
+      },
+      {
+        "question": "Puis-je annuler mon abonnement à tout moment ?",
+        "answer": "Oui, vous pouvez annuler votre abonnement à tout moment depuis les paramètres de votre compte. Votre abonnement restera actif jusqu'à la fin de la période de facturation en cours."
+      },
+      {
+        "question": "Quels moyens de paiement acceptez-vous ?",
+        "answer": "Nous acceptons toutes les principales cartes de crédit, y compris Visa, Mastercard et American Express, traitées en toute sécurité via Stripe."
+      }
+    ]
+  }
+}
